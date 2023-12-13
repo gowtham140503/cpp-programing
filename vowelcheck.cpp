@@ -4,6 +4,7 @@ using namespace std;
 int main() {
     char c;
     bool isLowercaseVowel, isUppercaseVowel;
+    bool ghj;
 
     cout << "Enter an alphabet: ";
     cin >> c;
